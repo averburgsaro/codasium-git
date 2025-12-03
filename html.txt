@@ -1,5 +1,5 @@
 <html>
 <div>
-	Dit is een website die niet werkt!
+	Dit is een website die wel werkt!
 </div>
 </html>
